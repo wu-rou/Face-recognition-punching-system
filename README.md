@@ -8,4 +8,6 @@ face-r.py是可以直接进行人脸识别的代码
 
 
 
-等待后续更新
+![Uploading IMG_9430.jpg…]()
+
+
